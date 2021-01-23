@@ -10,7 +10,7 @@ function About(props){
                 if that is granted, all elsse follows"
             </span>
             <span>-Gerge oWELL, 1984</span>
-            <span>now and</span>
+            <span>now andddd</span>
         </div>
     );
 }
