@@ -15,6 +15,7 @@ class Detail extends Component {
             return (
                 <div>
                     <h1>{location.state.title}</h1>
+                     <h3>ddddd</h3>
                 </div>
             );
           }else{
